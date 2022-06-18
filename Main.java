@@ -1,9 +1,4 @@
 //********JAVA GROUP PROJECT*******
-//Group Details---
-//   Name           Roll Number
-//1.Isha Gupta      21124022
-//2.Aditi Mittal    21124003
-//3.Nandita Biswas  21124033
 
 //Main runfile of the project
 
